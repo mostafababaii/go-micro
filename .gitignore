@@ -1,0 +1,5 @@
+.idea/
+
+services/auth/vendor/
+services/users/vendor/
+services/users/config.yaml
